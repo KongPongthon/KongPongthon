@@ -14,7 +14,7 @@ A self-taught Web developer
 
 ```javascript
 const skills = {
-  code: [Javascript, Typescript, HTML, CSS, Golang, Dart],
+  code: [Javascript, Typescript, HTML, CSS],
   tools: [
     React,
     Node,
@@ -30,11 +30,9 @@ const skills = {
     Docker,
     Virtual Private Server (VPS),
     Nginx,
-    Linux server (Ubuntu),
-    React Native,
-    Flutter
+    Zustand,
   ],
-  learning: ['Redis', 'Go(programming languages)', 'Gin (Web framework written in Golang)'],
+  learning: [, 'Go(programming languages)', 'Gin (Web framework written in Golang)','Vue 3'],
 };
 ```
 
@@ -45,18 +43,6 @@ const skills = {
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/nasaee.madadam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Nasaee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nasa-ee-madadam-b3a0b7272" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/nasa_ee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### My GitHub Stats
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-  <a href="https://github.com/Nasaee/github-profile">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasaee&layout=compact&bg_color=30,e96443,904e95&title_color=1B2631&text_color=1B2631" alt="Top Languages">
-  </a>
-  <a href="https://github.com/Nasaee/github-profile">
-    <img src="https://github-readme-stats.vercel.app/api?username=Nasaee&hide=issues&show_icons=true&rank_icon=github&bg_color=30,e96443,904e95&title_color=1B2631&text_color=1B2631" alt="GitHub Stats">
-  </a>
-
-</div>
+<p align="left"> <a href="https://www.facebook.com/PST.Kong" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://github.com/KongPongthon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </p>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
